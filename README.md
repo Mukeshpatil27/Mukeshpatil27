@@ -1,46 +1,64 @@
-# 👋 Hi there, I'm Mukesh Patil !
+<h1 align="center">Hi there 👋 I'm [Your Name]</h1>
+<h3 align="center">Aspiring Java Full Stack Developer | B.Tech 2024 |</h3>
 
-Welcome to my GitHub profile! I'm a passionate **Web Developer** & **Tech Enthusiast** who loves building web applications and learning new technologies. 🚀
-
----
-
-## 🌱 About Me
-
-- 🎓 Currently working as a **Junior Developer**
-- 💡 Exploring AI tools, full-stack development, and automation
-- 🛠️ Tech Stack: **Java**, **Angular**, **JavaScript**, **Node.js**, **HTML/CSS**, **Git/GitHub**
-- 📚 Always learning and growing, one commit at a time
-- 🌐 Currently mentoring MCA students in web development
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Learning+Java+Full+Stack+Development;Building+Projects+and+Portfolios;Excited+to+Join+the+Tech+Industry!" />
+</p>
 
 ---
 
-## 🔧 Tech Skills
+### 🚀 About Me
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
+- 🎓 **B.Tech in Computer Engineering**, graduated in **2024**
+- 💼 Completed a **6-month internship** at *Krishna Tech Creation* as a **Front-End Web Developer**
+- 👨‍💻 Currently pursuing a **Java Full Stack Web Development** course
+- 💡 Interested in building web apps, learning backend, and growing into a full-stack developer
+- ✨ Always ready to learn something new and take on exciting challenges!
 
 ---
 
-## 📈 GitHub Stats
+### 🧠 Tech Skills
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
-
----
-
-## 📫 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- 🌐 [Portfolio Website](https://yourwebsite.com)
-- ✉️ Email: youremail@example.com
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,bootstrap,git,github" />
+</p>
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.”
+### 📈 GitHub Stats
 
-Thanks for stopping by! ⭐️
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" height="165">
+</p>
+
+---
+
+### 🧪 Projects & Learning
+
+| Project | Tech Used | Description |
+|--------|-----------|-------------|
+| **Portfolio Website** | HTML, CSS, JS | My personal website to showcase my journey and skills |
+| **To-Do App** | JavaScript | A simple app to manage daily tasks |
+| **Student Registration System (Ongoing)** | Java, JDBC | Backend system for managing students and enrollments |
+
+---
+
+### 📫 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mukeshpatil2596/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mukeshpatil2596@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+### ✨ Fun Fact
+
+> “The best way to learn to code is to keep coding. Fail, fix, repeat.” 💡
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
+</p>
