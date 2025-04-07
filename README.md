@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 I'm [Your Name]</h1>
+<h1 align="center">Hi there 👋 I'm Mukesh Patil</h1>
 <h3 align="center">Aspiring Java Full Stack Developer | B.Tech 2024 |</h3>
 
 <p align="center">
@@ -25,15 +25,14 @@
 
 ---
 
-### 📚 Learning Journey Progress
+### 📖 Currently Learning
 
-| Skill           | Level        |
-|----------------|--------------|
-| Java            | 🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜ |
-| HTML/CSS        | 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ |
-| JavaScript      | 🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜ |
-| Git & GitHub    | 🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜ |
-| Angular         | 🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜ |
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+</p>
+
 
 ---
 
