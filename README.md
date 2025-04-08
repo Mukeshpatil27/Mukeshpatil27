@@ -67,7 +67,7 @@
 
 ### ✨ Fun Fact
 
-> “The best way to learn to code is to keep coding. Fail, fix, repeat.” 💡
+> “The best way to learn to code is to keep coding. Fail,fix, repeat.” 💡
 
 ---
 
